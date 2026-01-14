@@ -20,3 +20,16 @@ Just consistent progress, curiosity, and discipline.
 - Course tracking
 - Ideas that might fail (and that’s okay)
 
+Python
+
+Python is my main language right now.
+
+Here I work on:
+
+Core language fundamentals (loops, functions, data structures)
+
+Writing simple, readable code instead of over-engineering
+
+Small scripts to automate boring tasks
+
+Using Python as a base for ML and backend work
