@@ -33,3 +33,35 @@ Writing simple, readable code instead of over-engineering
 Small scripts to automate boring tasks
 
 Using Python as a base for ML and backend work
+
+
+
+Neural Networks
+
+This is the area I’m most serious about.
+
+I’m learning neural networks from the ground up:
+
+How a single neuron works
+
+Forward pass, loss calculation, and backpropagation
+
+Why gradients behave the way they do
+
+What actually happens when a model “learns”
+
+
+##Machine Learning
+
+ML here is practical, not just theory.
+
+I work on:
+
+Data preprocessing and cleaning
+
+Training simple models and evaluating them properly
+
+Understanding overfitting instead of just fixing it
+
+Writing small experiments and learning from results
+
