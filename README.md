@@ -69,3 +69,17 @@ I work on:
 
 This repo is less about being impressive  
 and more about being honest with the learning process.
+
+
+
+What You’ll Find Here
+
+Learning notes and explanations
+
+Code experiments
+
+Small projects
+
+Course tracking repositories
+
+Ideas in progress (and sometimes abandoned)
