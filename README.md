@@ -58,16 +58,6 @@ I’m learning neural networks from the ground up, focusing on understanding ins
 
 ML here is practical, not just theoretical.
 
-I work on:
 
-- Data preprocessing and cleaning
-- Training simple models and evaluating them properly
-- Understanding overfitting instead of just fixing it blindly
-- Running small experiments and learning from results
-
----
-
-This repo is less about being impressive  
-and more about being honest with the learning process.
 
 
