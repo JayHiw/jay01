@@ -1,9 +1,6 @@
 # Jay Hiwase
 
 This is my personal repository.
-
-Created and maintained by me one step at a time.
-
 ## About This Repo
 
 I manage everything here on my own:  
