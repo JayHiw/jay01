@@ -1,4 +1,4 @@
-# Jay Hiwase
+:- # Name Jay Hiwase
 
 This is my personal repository.
 ## About This Repo
