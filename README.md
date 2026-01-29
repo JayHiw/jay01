@@ -55,6 +55,11 @@ I’m learning neural networks from the ground up, focusing on understanding ins
 
 ML here is practical, not just theoretical.
 
+### Tools & Technologies
+- Language: Python / C / C++
+- Editor: VS Code
+- Version Control: Git & GitHub
+- OS: Windows (Lenovo Yoga 7i)
 
 
 
