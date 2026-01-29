@@ -57,6 +57,12 @@ ML here is practical, not just theoretical.
 
 ### Tools & Technologies
 - Language: Python / C / C++
+
+- ### Author
+Jay Hiwase  
+Computer Applications Student | Tech + Writing  
+Learning, building, documenting.
+
 - Editor: VS Code
 - Version Control: Git & GitHub
 - OS: Windows (Lenovo Yoga 7i)
