@@ -1,7 +1,7 @@
 # the name is Jay Hiwase 
 
 This is my personal repository.
-## About This Repo
+
 
 I manage everything here on my own:  
 learning, notes, experiments, small projects, and random ideas that slowly turn into code.
