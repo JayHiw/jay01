@@ -4,8 +4,6 @@ This is my personal repository.
 
 
 I manage everything here on my own:  
-learning, notes, experiments, small projects, and random ideas that slowly turn into code.
-
 There’s no fixed structure.  
 There’s no pressure to be perfect.
 
