@@ -15,9 +15,6 @@ _Last updated: today_
 
 ---
 
-## What I work on here
-
-- Daily learning notes  
 - Code experiments  
 - Small projects  
 - Course tracking  
