@@ -11,15 +11,10 @@ Just showing up, staying curious, and making consistent progress.
 
 _Last updated: today_
 
----
-
 - Code experiments  
 - Small projects  
 - Course tracking  
 - Ideas that might fail (and that’s part of the process)
-
----
-
 ## Python
 
 Python is my main language right now.
