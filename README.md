@@ -41,8 +41,6 @@ I’m learning neural networks from the ground up, focusing on understanding ins
 
 ## Machine Learning
 
-ML here is practical, not just theoretical.
-
 ### Tools & Technologies
 - Language: Python / C / C++
 
