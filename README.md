@@ -39,8 +39,6 @@ I’m learning neural networks from the ground up, focusing on understanding ins
 - Why gradients behave the way they do
 - What actually happens when a model “learns”
 
----
-
 ## Machine Learning
 
 ML here is practical, not just theoretical.
