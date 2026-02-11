@@ -16,9 +16,6 @@ _Last updated: today_
 - Course tracking  
 - Ideas that might fail (and that’s part of the process)
 ## Python
-
-Python is my main language right now.
-
 I use it to focus on fundamentals and clarity rather than complexity:
 
 - Core concepts (loops, functions, data structures)
