@@ -1,13 +1,4 @@
-# the name is Jay Hiwase 
-
-This is my personal repository.
-
-
-I manage everything here on my own:  
-There’s no fixed structure.  
-There’s no pressure to be perfect.
-
-Just showing up, staying curious, and making consistent progress.
+howing up, staying curious, and making consistent progress.
 
 _Last updated: today_
 
