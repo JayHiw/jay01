@@ -1,4 +1,3 @@
-howing up, staying curious, and making consistent progress.
 
 _Last updated: today_
 
