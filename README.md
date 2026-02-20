@@ -1,5 +1,4 @@
 
-_Last updated: today_
 
 - Code experiments  
 - Small projects  
