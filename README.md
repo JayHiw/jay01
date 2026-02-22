@@ -7,13 +7,6 @@
 ## Python
 I use it to focus on fundamentals and clarity rather than complexity:
 
-- Core concepts (loops, functions, data structures)
-- Writing simple, readable code
-- Small scripts to automate boring tasks
-- Using Python as a base for ML and backend work
-
----
-
 ## Neural Networks
 
 This is the area I’m most serious about.
